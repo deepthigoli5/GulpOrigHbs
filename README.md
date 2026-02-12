@@ -87,3 +87,8 @@ If you run `gulp` without specifying any tasks, it will execute the default task
 ### 1.4.6
 
 - npm run dev added
+### 1.4.7
+- Restructured the project by moving all files from the pages/keshavsoft directory to the partials/keshavsoft directory.
+### 1.4.8
+Deleted all partial files from the pages/keshavsoft directory after restructuring.
+  
